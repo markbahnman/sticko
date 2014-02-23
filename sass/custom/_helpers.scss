@@ -1,9 +1,9 @@
 /**
- * 
- * Define mixins, functions, 
- * animations, placeholders, 
+ *
+ * Define mixins, functions,
+ * animations, placeholders,
  * helper classes.
- * 
+ *
 **/
 
 
@@ -60,7 +60,7 @@
         content: "\0020";
         display: block;
         height: 0;
-        overflow: hidden; 
+        overflow: hidden;
     }
     &:after {
         clear: both;
